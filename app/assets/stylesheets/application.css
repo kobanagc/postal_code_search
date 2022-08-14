@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+
+ .container {
+   margin-top: 50px;
+   text-align: center;
+ }
+
+ .search_form {
+   width: 400px;
+   padding: 10px 15px;
+   font-size: 16px;
+   border-radius: 3px;
+   border: 2px solid #ddd;
+ }
